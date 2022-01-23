@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </details> 
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSER1&repo=COSMO&theme=dark)](https://github.com/ANUSER1/COSMO)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSER1&repo=COSMOIC&theme=dark)](https://github.com/ANUSER1/COSMIC)
 
 
 
