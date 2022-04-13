@@ -33,7 +33,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I THINK IAM VERY POSITIVE**
 
-FULL BOT IS WORKING 
-COSMO
-COSMIC-V1
-ACE-V1
