@@ -33,15 +33,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I THINK IAM VERY POSITIVE**
 
-This is repo
-https://replit.com/@ANUSER1/ACE-V1#index.js
-
-ɪᴍᴘ: ɪɴ ʜᴇʀᴏᴋᴋᴜ ᴡᴇ ᴄᴀɴ ɴᴏᴛ ᴅᴇᴘʟᴏʏ
-ഹീറോക്കുവിൽ നമ്മുക്ക് ഡെപ്ലോയ് (deploy) ചെയ്യാൻ സാധിക്കില്ല അതിനു പകരം ആദിയം (qr) scan ചെയ്തു
-തായെ തന്നിരിക്കുന്ന ലിങ്കിൽ കയറി deploy ചെയ്യുക (നിങ്ങൾക്കു ഏതു bot അണ്ണോ veandhadu select ചെയുക)
-
-
-ᴄᴏsᴍɪᴄ ʙᴏᴛ
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FVinayakvidyutkuniyil%2FCOSMIC-1.git
-
-Wi8 coming soon
+FULL BOT IS WORKING 
+COSMO
+COSMIC-V1
+ACE-V1
